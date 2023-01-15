@@ -12,7 +12,7 @@
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
-
+[![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v4fdbc33a55781dc592d32bc0c5d1eb8f6c96a05c8dafb5ba814fcab1c6bf1229/firebase/images/lockup.svg" alt="drawing" style="width:100px; background-color:white"/>  <img src="https://codemagic.io/landing-assets/svg/logo-white.svg" alt="drawing" style="width:100px; background-color:#0056ef; height:28px;"/>
