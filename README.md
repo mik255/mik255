@@ -6,8 +6,6 @@
 ![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mik255&show_icons=true&theme=transparent)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mik255&theme=dark)](https://git.io/streak-stats)
-
 ## Tecnologias que uso no meu dia a dia 
 
 [![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
