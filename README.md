@@ -14,5 +14,9 @@
 [![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
 
 
+
+<img src="https://www.gstatic.com/devrel-devsite/prod/v4fdbc33a55781dc592d32bc0c5d1eb8f6c96a05c8dafb5ba814fcab1c6bf1229/firebase/images/lockup.svg" alt="drawing" style="width:100px; background-color:white"/>  <img src="https://codemagic.io/landing-assets/svg/logo-white.svg" alt="drawing" style="width:100px; background-color:#0056ef; height:28px;"/>
+
+
 #### “Trabalho a sério, com fé e dedicação, pode fazer você vencer todos os obstáculos e conseguir o que quer!.”
  Chester Bennington
