@@ -3,9 +3,6 @@
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584991110267&text=Ol%C3%A1%20bem%20vindo%20ao%20meu%20perfil,%20fique%20a%20vontade!)
 
 
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mik255&show_icons=true&theme=transparent)
-
-
 ## Tecnologias que uso no meu dia a dia 
 
 [![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
