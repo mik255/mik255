@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "https://mik255.github.io/",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
