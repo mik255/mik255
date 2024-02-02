@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.usezapay.app",
+    "sha256_cert_fingerprints":
+    ["88:60:1E:72:36:4E:95:A0:4E:DB:11:4A:95:59:F2:CA:77:FC:63:EB:7D:81:A8:B3:0C:64:C9:A3:CB:0A:04:27"]
+  }
+}]
